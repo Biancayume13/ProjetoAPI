@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-image: -moz-linear-gradient(15, rgb(206, 115, 11),rgb(246, 218, 247)
+    );
+}
+.botao{
+    width: 20px;
+    height: 50px;
+    font-size: 15px;
+    cursor: pointer;
+    margin: 3px;
+    background-color: rgb(237, 193, 83);
+    border: 3px;
+    border-color: rgb(255, 89, 0);
+    color: #0b0b0b;
+}
